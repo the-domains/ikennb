@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[ikennb]]></title>
+        <description><![CDATA[ikennb]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 02 Feb 2016 00:42:26 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Scientists have long debated the origins of Earth's water. It made human life possible, distinguishing our lush planet from the barren ones that surround us. But how did it get here? While it seems likely that the water in our solar system is very old, scientists aren't sure whether Earth formed with water molecules on it or those molecules arrived later, hitching a ride on an asteroid that collided with us.</p>]]></description>
+            <link>undefined97401ecc-a475-4682-b04c-bdcec187f189/index.html</link>
+            <guid isPermaLink="false">97401ecc-a475-4682-b04c-bdcec187f189</guid>
+            <pubDate>Tue, 02 Feb 2016 00:42:26 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
