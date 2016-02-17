@@ -1,0 +1,28 @@
+name: ikennb
+favicon: null
+layout_spectrum: 0.3431145225185901
+typography_spectrum: 0.8633434695657343
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#00131a'
+    - '#3f6c8d'
+    - '#dac3c9'
+    - '#f9f0e9'
+    - '#9192a7'
+  brandStrength: 0.9492460186593235
+  lightness: 0.593758576316759
+  saturation: 0.8584159472957253
+  rhythmicContrast: 0.9590157603379339
+purpose: []
